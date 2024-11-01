@@ -1,0 +1,65 @@
+#wpec_goodrelations_nav_bar ul{
+	width:100%;
+	border-bottom: 1px solid #DFDFDF;
+	float:left;
+	margin:0 auto;
+	padding-left:0;
+	margin-top: -1px;
+}
+#wpec_goodrelations_page select {
+font-size: 11px;
+height: auto;
+padding: 2px;
+width: 250px;
+}
+
+#wpec_goodrelations_page input[type=text] {
+width: 250px;
+}
+
+.multiple-select {
+background:#FFFFFF none repeat scroll 0 0;
+border:1px solid #DFDFDF;
+display:inline-block;
+height:120px;
+margin:0;
+overflow-x:hidden;
+overflow-y:auto;
+padding:0;
+position:relative;
+width:250px;
+}
+	.tooltip {text-decoration:underline;}
+	.tooltip:hover {text-decoration:none;}
+	.gr-multiple-select {
+background:#FFFFFF none repeat scroll 0 0;
+border:1px solid #DFDFDF;
+display:inline-block;
+max-height:90px;
+min-height:60px;
+margin:0;
+overflow-x:hidden;
+overflow-y:auto;
+padding:0;
+position:relative;
+width:250px;
+}
+
+div#poststuff .gr_field td {vertical-align: middle; padding-top: 2px; padding-bottom: 3px;}
+
+.global_product_options {font-size: 11px;}
+td {font-size: 11px;}
+#global_product_master input[type=text] {width: 250px;}
+#global_product_master td {vertical-align: top;}
+
+#wpec_goodrelations_page td{
+vertical-align: top;
+}
+#wpec_goodrelations {
+	border-color:#EBEBEB rgb(204, 204, 204) rgb(204, 204, 204) rgb(235, 235, 235);
+	border-style:solid;
+	border-width:1px;
+	margin:0pt 15% 0pt 15px;
+	padding:2px;
+  position: relative;
+}

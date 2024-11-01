@@ -1,0 +1,9 @@
+License for goodrelations_logo.gif and the GoodRelations Ontology
+
+The GoodRelations ontology is available under the Creative Commons Attribution 3.0 license.
+You are free to copy, distribute and transmit the work; to remix/adapt the work (e.g. to 
+import the ontology and create specializations of its elements), as long as you attribute 
+the work, e.g. by stating "This work is based on the GoodRelations ontology, developed by 
+Martin Hepp" and linking back to http://purl.org/goodrelations/.
+
+see: http://creativecommons.org/licenses/by/3.0/legalcode or license-cc-by.txt
